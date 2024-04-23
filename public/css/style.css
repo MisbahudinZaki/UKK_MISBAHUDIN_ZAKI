@@ -1,8 +1,4 @@
-.background
-{
-    background-image: url('images/background.jpg');
-    background-size: cover;
-}
+
 
 table{
     border: 1px solid black;
@@ -71,7 +67,7 @@ input[type="reset"]{
     padding: 20px 40px;
     font-size: 30px;
     font-weight: bold;
-    background: linear-gradient(45deg, #8b1717, #530000, #8b1717) ;
+    background: linear-gradient(45deg, #000291,#4547b9,#000291);
     color: #ffffff;
     border: 1px solid black;
     border-radius: 5px;
@@ -79,7 +75,7 @@ input[type="reset"]{
 }
 
 .operator{
-    padding: 20px 30px;
+    padding: 20px 20px;
     font-size: 30px;
     font-weight: bold;
     border: 1px solid black;

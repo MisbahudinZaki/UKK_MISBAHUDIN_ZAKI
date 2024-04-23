@@ -19,6 +19,7 @@
 <body class="background">
     <div class="container mt-5">
         <div class="row">
+            <h1 class="text-white">Uji Kopetensi Keahlian</h1>
             <div class="col-md-12">
                 <div class="card border-0 shadow rounded">
                     <div class="card-header">Peserta</div>

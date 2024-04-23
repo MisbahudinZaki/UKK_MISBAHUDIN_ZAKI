@@ -17,7 +17,7 @@
     </style>
 </head>
 <body class="background">
-    <div class="container">
+    <div class="container mt-5">
         @yield('kalkulator')
     </div>
 </body>
