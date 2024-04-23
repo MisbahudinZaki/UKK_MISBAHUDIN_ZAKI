@@ -1,0 +1,101 @@
+.background
+{
+    background-image: url('images/background.jpg');
+    background-size: cover;
+}
+
+table{
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(45deg, #181818, #d1d0d0, #181818);
+}
+
+input[type="text"]{
+    padding: 20px 30px;
+    font-size: 30px;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+input[type="submit"]{
+    width: 100%;
+    padding: 20px 40px;
+    font-size: 30px;
+    font-weight: bold;
+    background: linear-gradient(45deg,  #8b1717, #530000, #8b1717);
+    color: #ffffff;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.kembali{
+    width: 100%;
+    padding: 10px 20px;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #8b1717;
+    color: #ffffff;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    text-decoration: none;
+}
+
+.button{
+    width: 100%;
+    padding: 20px 40px;
+    font-size: 30px;
+    font-weight: bold;
+    background: linear-gradient(45deg, #000291,#4547b9,#000291);
+    color: #ffffff;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+.opr{
+    width: 100%;
+    padding: 20px 40px;
+    font-size: 30px;
+    font-weight: bold;
+    background: linear-gradient(45deg, #009100,#1dce1d,#009100);
+    color: #ffffff;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+input[type="reset"]{
+    width: 100%;
+    padding: 20px 40px;
+    font-size: 30px;
+    font-weight: bold;
+    background: linear-gradient(45deg, #8b1717, #530000, #8b1717) ;
+    color: #ffffff;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.operator{
+    padding: 20px 30px;
+    font-size: 30px;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+.header{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+.footer{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align:left;
+    color: black;
+}
